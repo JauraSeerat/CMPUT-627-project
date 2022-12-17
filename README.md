@@ -3,7 +3,7 @@
 ### Detecting Fake Reviews by Feature Engineering and Machine Learning
 
 
-In this project, we are attempting the problem of Fake Review Detection.
+In this project, we are attempting the problem of Fake Review Detection. We explore rule-base, machine learning and aggregation based approaches. The rules were based on our data analysis. For machine learning we consider dealing with textual and non-textual features separately. To get the best of both rule-base and machine learning, we explore different combination/aggregation mehancism in our project.  
 
 ## Code Files
 
