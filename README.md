@@ -13,9 +13,13 @@ In this project, we are attempting the problem of Fake Review Detection.
 
 * `Models_word2vec_features.ipynb` : All Machine learning models built on Word2vec features.
 
+* `rule_base_ML_Comb.ipynb` : Rule based approach, machine learning on non-textual features and aggregation approach
+
 
 ## References
 
 http://odds.cs.stonybrook.edu/yelpzip-dataset/
 
 https://github.com/chiragdaryani/rating-humor-from-text
+
+https://scikit-learn.org/stable/
