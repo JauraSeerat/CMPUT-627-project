@@ -1,8 +1,7 @@
 # CMPUT-627-project
 
-# Detecting Fake Reviews by Feature Engineering and Machine Learning
 
-## Task Description:
+### Task Description: Detecting Fake Reviews by Feature Engineering and Machine Learning
 
 
 In this task, we try to predict the
