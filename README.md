@@ -29,4 +29,8 @@ https://scikit-learn.org/stable/
 
 https://scikit-learn.org/stable/modules/grid_search.html
 
+https://ieeexplore.ieee.org/document/9320592/;
 
+https://dl.acm.org/doi/10.5555/2935490
+
+https://www.semanticscholar.org/paper/A-Novel-Approach-for-Opinion-Spam-Detectionin-Shirin-Erfan/f79347cdff7f669568ec56dd1e5e76c517ea9046
