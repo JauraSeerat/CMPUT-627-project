@@ -15,10 +15,6 @@ Collective Opinion Spam Detection: Bridging Review Networks and Metadata](http:/
 
 [Collective Opinion Spam Detection using Active Inference.](http://shebuti.com/wp-content/uploads/2016/06/16-sdm-active.pdf) Shebuti Rayana, Leman Akoglu, SIAM SDM, Miami, Florida, USA, May 5-7, 2016
 
-
-http://shebuti.com/wp-content/uploads/2016/06/16-sdm-active.pdf
-Collective Opinion Spam Detection using Active Inference. Shebuti Rayana, Leman Akoglu, SIAM SDM, Miami, Florida, USA, May 5-7, 2016
-
 http://odds.cs.stonybrook.edu/yelpzip-dataset/
 
 https://github.com/chiragdaryani/rating-humor-from-text
