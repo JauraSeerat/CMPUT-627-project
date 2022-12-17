@@ -6,7 +6,6 @@ In this project, we are attempting the problem of Fake Review Detection on the Y
 
 We explore rule-based, machine learning and aggregation based approaches. The rules were based on our data analysis. For machine learning we consider dealing with textual and non-textual features separately. To get the best of both rule-base and machine learning, we explore different combination/aggregation mechaniisms in our project implementation.  
 
-The dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/11RaGF2u1LtLWqirGTfltiSY_E1D4GHhR/view?usp=sharing)
 
 ## References
 
