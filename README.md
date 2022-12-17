@@ -15,4 +15,5 @@ In this project, we are attempting the problem of Fake Review Detection.
 
 
 ## References
-
+http://odds.cs.stonybrook.edu/yelpzip-dataset/
+https://github.com/chiragdaryani/rating-humor-from-text
