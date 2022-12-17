@@ -9,6 +9,11 @@ We explore rule-based, machine learning and aggregation based approaches. The ru
 
 ## References
 
+
+Collective Opinion Spam Detection: Bridging Review Networks and Metadata. Shebuti Rayana, Leman Akoglu, ACM SIGKDD, Sydney, Australia, August 10-13, 2015
+
+Collective Opinion Spam Detection using Active Inference. Shebuti Rayana, Leman Akoglu, SIAM SDM, Miami, Florida, USA, May 5-7, 2016
+
 http://odds.cs.stonybrook.edu/yelpzip-dataset/
 
 https://github.com/chiragdaryani/rating-humor-from-text
