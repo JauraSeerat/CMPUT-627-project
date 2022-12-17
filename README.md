@@ -8,8 +8,6 @@ We explore rule-based, machine learning and aggregation based approaches. The ru
 
 
 ## References
-
-## Dataset citation
 [
 Collective Opinion Spam Detection: Bridging Review Networks and Metadata](http://shebuti.com/wp-content/uploads/2016/06/15-kdd-collectiveopinionspam.pdf) Shebuti Rayana, Leman Akoglu, ACM SIGKDD, Sydney, Australia, August 10-13, 2015
 
