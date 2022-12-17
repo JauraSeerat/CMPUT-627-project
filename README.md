@@ -23,6 +23,8 @@ http://odds.cs.stonybrook.edu/yelpzip-dataset/
 
 https://github.com/chiragdaryani/rating-humor-from-text
 
+https://github.com/darshandagly/Fake-Review-Detection/blob/master/Code/main.py
+
 https://stackoverflow.com/questions/41592661/determining-the-most-contributing-features-for-svm-classifier-in-sklearn
 
 https://scikit-learn.org/stable/
