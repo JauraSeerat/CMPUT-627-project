@@ -26,8 +26,8 @@ https://www.nltk.org/
 
 
 ## Dataset citation
-
-Collective Opinion Spam Detection: Bridging Review Networks and Metadata. Shebuti Rayana, Leman Akoglu, ACM SIGKDD, Sydney, Australia, August 10-13, 2015
+[
+Collective Opinion Spam Detection: Bridging Review Networks and Metadata](http://shebuti.com/wp-content/uploads/2016/06/15-kdd-collectiveopinionspam.pdf)Shebuti Rayana, Leman Akoglu, ACM SIGKDD, Sydney, Australia, August 10-13, 2015
 
 Collective Opinion Spam Detection using Active Inference. Shebuti Rayana, Leman Akoglu, SIAM SDM, Miami, Florida, USA, May 5-7, 2016
 
