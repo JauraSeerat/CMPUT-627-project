@@ -21,11 +21,12 @@ https://github.com/darshandagly/Fake-Review-Detection/blob/master/Code/main.py
 
 https://stackoverflow.com/questions/41592661/determining-the-most-contributing-features-for-svm-classifier-in-sklearn
 
-https://scikit-learn.org/stable/
+https://arxiv.org/pdf/2203.09936.pdf
 
 https://www.nltk.org/
 
+https://scikit-learn.org/stable/
+
 https://scikit-learn.org/stable/modules/grid_search.html
 
-https://arxiv.org/pdf/2203.09936.pdf
 
